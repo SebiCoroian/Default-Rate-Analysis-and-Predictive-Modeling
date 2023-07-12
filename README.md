@@ -1,5 +1,4 @@
-# Default-Rate-Analysis-and-Predictive-Modeling
-Comprehensive Analysis of Loan Default Rate and Time Series Predictive Modeling
+# Comprehensive Analysis of Loan Default Rate and Time Series Predictive Modeling
 
 This repository is a comprehensive guide for conducting a thorough examination and predictive modeling of default rates in the financial sector. It employs Python to tackle various facets of the analysis - from data preprocessing, to calculation and visualization of the default rate, and finally, forecasting the future default rates using advanced time series modeling. The repository offers valuable insights to both the data science and finance community, shedding light on the patterns and predicting future trends in default rates. 
 
